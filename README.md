@@ -1,8 +1,9 @@
-# embed_facebook_videos
-wordpress plugin to embed facebook videos to posts and pages
+Fembed - Embed Facebook videos to Wordpress posts and pages
+========
 
-##INSTALL
-### upload it to your wordpress and activate it .
-#### you're done
+INSTALL
+-------------
+Move `Fembed` folder into your `wp-content/plugins` directory, then activate it from your admin dashboard.
+
 
 
