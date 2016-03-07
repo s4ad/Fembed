@@ -4,7 +4,7 @@
  * Description: Embed Facebook videos easily 
  * Plugin URI:  https://github.com/s4ad/Fembed
  * Version:     0.0.1
- * Author:      Saad Bouteraa <s4ad@github>
+ * Author:      Saad Bouteraa
  **/
 
 add_action( 'admin_head', 'Fembed_tinymce' );
