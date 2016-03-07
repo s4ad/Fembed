@@ -1,10 +1,10 @@
 ( function() {
-    tinymce.PluginManager.add( 's4_embed', function( editor, url ) {
+    tinymce.PluginManager.add( 'fembed', function( editor, url ) {
 
         
-        editor.addButton( 's4_embed_button_key', {
+        editor.addButton( 'fembed_button_key', {
 
-            text: 'Fb Embed',
+            text: 'Fembed',
             icon: false,
             onclick: function() {
                
